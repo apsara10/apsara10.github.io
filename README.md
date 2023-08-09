@@ -91,7 +91,7 @@
                     </div>
                     <div class="content-for-home">
                         <div class="img-container"></div>
-                        <h1 align="center">Shirshen Das Gupta Shuvro</h1>
+                        <h1 align="center">Apsara Adhikari</h1>
                         <div class="social-icons">
                             <div class="s-icon">
                                 <a href="#">
